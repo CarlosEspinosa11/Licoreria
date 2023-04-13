@@ -1,0 +1,184 @@
+.redes-sociales{
+    width: 20px;
+    margin: 10px 5px;
+}
+
+.banners{
+    width: 300x;
+    height: 200px;
+}
+
+.banner-video{
+    background-image: url("../img/video1.jpg");
+    padding: 200px 0;
+    position: relative;
+    text-align: center;
+}
+
+.banner-video img{
+    width: 80px;
+    height: 80px;
+    position: relative;
+}
+
+.and-app{
+    text-align: auto;
+    padding: 10px 30px;
+}
+
+footer{
+    background-color: rgb(37, 37, 37);
+    padding: 27px 0;
+    text-align: center;
+}
+
+#nombre{
+    color: aliceblue;
+    padding: 10px;
+}
+
+.main-somos{
+    padding: 0px 55px;
+    text-align: center;
+}
+
+.color-fondo1{
+    background-color: rgb(150, 173, 194);
+    width: 1240px;
+    height: 175px;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.color-fondo2{
+    background-color: rgb(150, 173, 194);
+    width: 1240px;
+    height: 110px;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.color-fondo3{
+    background-color: rgb(150, 173, 194);
+    width: 1240px;
+    height: 463px;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.color-fondo4{
+    background-color: rgb(150, 173, 194);
+    width: 1240px;
+    height: 335px;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.body-login{
+    background-color: #1B6685;
+    display: flex;
+    background: url(../img/fondo2.jpg) no-repeat center top;
+    background-size: cover;
+    flex-direction: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 116px;
+}
+
+
+.formulario{
+    display: flex;
+    flex-direction: column;
+    border: solid 1px #999999;
+    border-radius: 8px;
+    width: 386px;
+    height: 400px;
+    box-shadow: 3px 0px 10px -5px black;
+    margin-top: 1px;
+    padding: 30px;
+    background-color: white;
+    font-family: 'Raleway', sans-serif;  
+    position: relative;
+
+}
+
+.form-datos{
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+}
+
+.login{
+    height: 30%;
+    border-radius: 8px;
+    flex-direction: center;
+    display: flex;
+    justify-content: center;
+}
+
+.boton{
+    background: #374F5E;
+    color: white;
+    border-radius: 4px;
+    padding: 9px;
+    border: 1pz solid gray;
+    font-size: 16px;
+}
+
+input[type="text"], input[type="password"] {
+    margin-bottom: 30px;
+    margin-top: 10px;
+    border: none;
+    border-bottom: 1px solid black;
+    outline: none;
+    height: 40px;
+}
+
+.negrilla{
+    font-weight: bold;
+    font-size: 22px;
+}
+
+#titulo{
+    margin-top: 35px;
+    flex-direction: center;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 3px;
+    font-weight: bold;
+}
+
+.formulario a{
+    text-decoration: none;
+    font-size: 16px;
+    line-height: 20px;
+    justify-content: center;
+    display: flex;
+    color: black;
+    font-weight: bold;
+
+}
+
+.formulario a:hover{
+    color: black;
+}
+
+.formulario img{
+    position: absolute;
+    top: -67px;
+    left: 170px;
+    width: 120px;
+    height: 120px;
+}
+
+.botones-comprar{
+    text-align: center;
+}
+
+.body p{
+    font-family: 'Joan', serif;
+}
+
+.body h1 h2 h3 h4 h5{
+    font-family: 'Merriweather', serif;
+}
